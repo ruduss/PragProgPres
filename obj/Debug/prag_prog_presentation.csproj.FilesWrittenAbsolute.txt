@@ -1,0 +1,12 @@
+/home/pi/Desktop/work/prag_prog_presentation/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/pi/Desktop/work/prag_prog_presentation/bin/prag_prog_presentation.dll.mdb
+/home/pi/Desktop/work/prag_prog_presentation/bin/prag_prog_presentation.dll
+/home/pi/Desktop/work/prag_prog_presentation/obj/Debug/prag_prog_presentation.dll
+/home/pi/Desktop/work/prag_prog_presentation/obj/Debug/prag_prog_presentation.dll.mdb
+/home/pi/Desktop/work/prag_prog_presentation/bin/Microsoft.Web.Infrastructure.dll
+/home/pi/Desktop/work/prag_prog_presentation/bin/System.Web.Razor.dll
+/home/pi/Desktop/work/prag_prog_presentation/bin/System.Web.Helpers.dll
+/home/pi/Desktop/work/prag_prog_presentation/bin/System.Web.WebPages.dll
+/home/pi/Desktop/work/prag_prog_presentation/bin/System.Web.WebPages.Deployment.dll
+/home/pi/Desktop/work/prag_prog_presentation/bin/System.Web.WebPages.Razor.dll
+/home/pi/Desktop/work/prag_prog_presentation/bin/System.Web.Mvc.dll

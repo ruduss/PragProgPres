@@ -1,0 +1,13 @@
+﻿<Properties StartupItem="PragProgPres.Web.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="epiphany-browser" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="presentation.BLL/PresentationBLL.c">
+    <Files>
+      <File FileName="Controllers/HomeController.cs" Line="43" Column="43" />
+      <File FileName="presentation.BLL/PresentationBLL.c" Line="2" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

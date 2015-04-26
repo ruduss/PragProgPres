@@ -1,0 +1,15 @@
+/home/pi/Desktop/work/prag_prog_presentation/prag_prog_presentation.Tests/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/pi/Desktop/work/prag_prog_presentation/prag_prog_presentation.Tests/bin/Debug/Microsoft.Web.Infrastructure.dll
+/home/pi/Desktop/work/prag_prog_presentation/prag_prog_presentation.Tests/bin/Debug/System.Web.Razor.dll
+/home/pi/Desktop/work/prag_prog_presentation/prag_prog_presentation.Tests/bin/Debug/System.Web.Helpers.dll
+/home/pi/Desktop/work/prag_prog_presentation/prag_prog_presentation.Tests/bin/Debug/System.Web.WebPages.dll
+/home/pi/Desktop/work/prag_prog_presentation/prag_prog_presentation.Tests/bin/Debug/System.Web.WebPages.Deployment.dll
+/home/pi/Desktop/work/prag_prog_presentation/prag_prog_presentation.Tests/bin/Debug/System.Web.WebPages.Razor.dll
+/home/pi/Desktop/work/prag_prog_presentation/prag_prog_presentation.Tests/bin/Debug/System.Web.Mvc.dll
+/home/pi/Desktop/work/prag_prog_presentation/prag_prog_presentation.Tests/bin/Debug/nunit.framework.dll
+/home/pi/Desktop/work/prag_prog_presentation/prag_prog_presentation.Tests/bin/Debug/prag_prog_presentation.dll
+/home/pi/Desktop/work/prag_prog_presentation/prag_prog_presentation.Tests/bin/Debug/prag_prog_presentation.dll.mdb
+/home/pi/Desktop/work/prag_prog_presentation/prag_prog_presentation.Tests/bin/Debug/prag_prog_presentation.Tests.dll.mdb
+/home/pi/Desktop/work/prag_prog_presentation/prag_prog_presentation.Tests/bin/Debug/prag_prog_presentation.Tests.dll
+/home/pi/Desktop/work/prag_prog_presentation/prag_prog_presentation.Tests/obj/Debug/prag_prog_presentation.Tests.dll
+/home/pi/Desktop/work/prag_prog_presentation/prag_prog_presentation.Tests/obj/Debug/prag_prog_presentation.Tests.dll.mdb
