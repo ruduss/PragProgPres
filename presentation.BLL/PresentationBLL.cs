@@ -2,9 +2,9 @@
 
 namespace PragProgPres.BLL
 {
-	public class PresentationBLL
+	public class PresentationModel
 	{
-		public void PresentationBLL()
+		public void PresentationModel()
 		{
 
 

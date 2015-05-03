@@ -1,10 +1,10 @@
-﻿
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 using System.Web.Routing;
+using MongoDB.Bson;
 
 namespace prag_prog_presentation
 {
@@ -32,6 +32,7 @@ namespace prag_prog_presentation
 			AreaRegistration.RegisterAllAreas ();
 			RegisterGlobalFilters (GlobalFilters.Filters);
 			RegisterRoutes (RouteTable.Routes);
+			ModelBinders.Binders.Add(typeof(ObjectId), new BsonObjectIdBinder());
 		}
 	}
 }

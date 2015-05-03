@@ -38,13 +38,27 @@
     <Reference Include="MongoDB.Driver">
       <HintPath>..\packages\mongocsharpdriver.1.10.0\lib\net35\MongoDB.Driver.dll</HintPath>
     </Reference>
-    <Reference Include="MongoRepository.Net45">
-      <HintPath>..\packages\MongoRepository.1.6.8\lib\net45\MongoRepository.Net45.dll</HintPath>
-    </Reference>
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
     <None Include="app.config" />
-    <None Include="MongoRepository.chm" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Repository\Interfaces\IContentRepository.cs" />
+    <Compile Include="Repository\ContentRepository.cs" />
+    <Compile Include="Repository\ContentContext.cs" />
+    <Compile Include="Entities\ContentEntity.cs" />
+    <Compile Include="Services\EntityService.cs" />
+    <Compile Include="Services\IEntityService.cs" />
+    <Compile Include="Services\ContentService.cs" />
+    <Compile Include="MongoConnectionHandler.cs" />
+    <Compile Include="Entities\IMongoEntity.cs" />
+    <Compile Include="Entities\MongoEntity.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Repository\" />
+    <Folder Include="Repository\Interfaces\" />
+    <Folder Include="Entities\" />
+    <Folder Include="Services\" />
   </ItemGroup>
 </Project>

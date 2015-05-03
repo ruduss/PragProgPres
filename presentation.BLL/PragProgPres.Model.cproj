@@ -27,9 +27,6 @@
     <SourceDirectory>.</SourceDirectory>
   </PropertyGroup>
   <ItemGroup>
-    <Folder Include="New Folder\" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="PresentationBLL.cs" />
   </ItemGroup>
 </Project>

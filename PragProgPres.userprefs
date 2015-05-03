@@ -1,9 +1,12 @@
 ﻿<Properties StartupItem="PragProgPres.Web.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="epiphany-browser" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="presentation.BLL/PresentationBLL.c">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Controllers/ContentController.cs">
     <Files>
-      <File FileName="Controllers/HomeController.cs" Line="43" Column="43" />
-      <File FileName="presentation.BLL/PresentationBLL.c" Line="2" Column="2" />
+      <File FileName="CustomModelBinders/BsonObjectIdBinder.cs" Line="48" Column="48" />
+      <File FileName="Global.asax" Line="1" Column="1" />
+      <File FileName="Global.asax.cs" Line="59" Column="59" />
+      <File FileName="Models/ContentModel.cs" Line="30" Column="30" />
+      <File FileName="Controllers/ContentController.cs" Line="30" Column="30" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
